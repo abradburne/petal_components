@@ -49,7 +49,7 @@ defmodule PetalComponents.MixProject do
       {:phoenix_ecto, "~> 4.4"},
       {:credo, "~> 1.6", only: [:dev, :test], runtime: false},
       {:excoveralls, "~> 0.10", only: :test},
-      {:heroicons, "~> 0.4.1"}
+      {:heroicons, "~> 0.5"}
     ]
   end
 
